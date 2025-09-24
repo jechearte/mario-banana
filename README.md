@@ -7,6 +7,25 @@ Esta herramienta de línea de comandos genera imágenes del trazado de un circui
 - Dependencias indicadas en `requirements.txt`.
 - Cuenta en Google AI Studio y clave activa de la API de Gemini.
 
+## Obtención del código
+Puedes traer el proyecto a tu máquina de dos maneras:
+
+- **Clonando con Git (recomendado)**
+  ```bash
+  git clone git@github.com:jechearte/mario-banana.git
+  cd mario-banana/CLI
+  ```
+  Si prefieres HTTPS:
+  ```bash
+  git clone https://github.com/jechearte/mario-banana.git
+  cd mario-banana/CLI
+  ```
+
+- **Descargando ZIP desde GitHub**
+  1. Abre https://github.com/jechearte/mario-banana en tu navegador.
+  2. Haz clic en el botón verde `Code` y elige `Download ZIP`.
+  3. Descomprime el archivo y accede al directorio `CLI`.
+
 ## Instalación
 1. Crea y activa un entorno virtual (opcional, pero recomendado):
    ```bash
